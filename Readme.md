@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Car Sales Analysis – Power BI & Python Project</title>
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; background-color: #fdfdfd; padding: 20px;">
 
