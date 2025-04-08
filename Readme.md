@@ -59,9 +59,9 @@
   <h2>📸 Dashboard Screenshots</h2>
   <p>📁 Screenshots will be added for visual reference</p>
 
-  <img src="![alt text](<screenshots/Screenshot 2025-04-08 183901.png>)" alt="Dashboard Overview" width="600"><br>
-  <img src="![alt text](<screenshots/Screenshot 2025-04-08 183947.png>)" alt="Car Prices" width="600">
-  <img src="![alt text](<screenshots/Screenshot 2025-04-08 184032.png>)" alt="Car Horse Power" width="600">
+  <img src="(<screenshots/Screenshot 2025-04-08 183901.png>)" alt="Dashboard Overview" width="600"><br>
+  <img src="(<screenshots/Screenshot 2025-04-08 183947.png>)" alt="Car Prices" width="600">
+  <img src="(<screenshots/Screenshot 2025-04-08 184032.png>)" alt="Car Horse Power" width="600">
 
   <h2>📁 Files in this Repository</h2>
   <table border="1" cellpadding="8" cellspacing="0">
